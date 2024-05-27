@@ -1,16 +1,14 @@
-## Hi there 👋
+## Bem vindo ao meu perfil GitHub ✋
 
-<!--
-**projetok97/projetok97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MEU NOME É MARLON RAFAEL
 
-Here are some ideas to get you started:
+TENHO PROBLEMA DE VISÃO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+É NESTE ESPAÇO QUE COMPARTILHAREI MEUS PROJETOS QUE CRIEI NAS AULAS DA [ALURA](HTTPS://www.alura.com.br)
+
+### VOCÊ PODE FALAR COMIGO PELO E-MAIL 📧
+00001114905094SP@al.educacao.sp.gov.br	
+
+@marlonrafael
+
+![](https://media.tenor.com/lN7OvgMccHUAAAAM/sonic-sonic-the-hedgehog.gif)
